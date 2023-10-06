@@ -1,17 +1,5 @@
-/* Copyright 2022 Kunsh
-           
-[+] - Star 🌟 Before Copying this 😢  
-[+] - Follow me and get some new APIs and Repository 😅
-[+] - EveryOne can Use this Freely Here !!
-[+] - DO NOT sell anything or don't buy anyone like this its free 
-[+] - DO NOT remove Credit After Copying 😈
- */
-
-
-	/* layout css */
-	html, body {font-family:'Jockey One', 'Dosis','Berkshire Swash','Bungee Shade','arial';background-color:#000;overflow:hidden;margin:0; padding:0;height:100%}
-	
-    section {display:flex;flex-direction:column;height:100%;position:relative!important}
+html, body {font-family:'Jockey One', 'Dosis','Berkshire Swash','Bungee Shade','arial';background-color:#000;overflow:hidden;margin:0; padding:0;height:100%;overflow-x:hidden;scrollbar-width:thin;}
+	section {display:flex;flex-direction:column;height:100%;position:relative!important}
 	main {box-sizing:border-box}
 	nav {overflow-y:scroll;scroll-behavior:smooth;background:#606060}
     
