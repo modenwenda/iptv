@@ -1,7 +1,7 @@
 html, body {font-family:'Jockey One', 'Dosis','Berkshire Swash','Bungee Shade','arial';background-color:#000;overflow:hidden;margin:0; padding:0;height:100%;overflow-x:hidden;scrollbar-width:thin;}
 	section {display:flex;flex-direction:column;height:100%;position:relative!important}
 	main {box-sizing:border-box}
-	nav {overflow-y:scroll;scroll-behavior:smooth;background:#606060}
+	nav {overflow-y:scroll;scroll-behavior:smooth;background:#606060;scrollbar-width:thin}
     
 	nav ul li {padding:0;vertical-align:middle;line-height:1.8em}
 	.thumbimg {background:#242424}  
